@@ -1,0 +1,32 @@
+Notes on the Competition Draw Manager:
+######################################
+
+Actors:
+    Player
+    Organiser
+
+Actions:
+    Register_For_Event
+    Withdraw_From_Event, reason hurt, unfit, beaten in a round
+    Participate_In_Event, play the actual game
+
+    Publish_Results
+    Start_Event
+    End_Event
+    Enter_Result
+    Clear_Result
+    Edit_Result
+    Add_Handicap
+    Find_Player
+    Find_Team
+    Create_Team
+    Create_Competition, singles, doubles, handycap, plate
+
+    Create_List(Type)
+    Manage_Team_List
+    Manage_Player_List
+    Manage_Competition_List
+
+
+
+
